@@ -1,0 +1,10 @@
+{
+  "name": "yarn-workspaces-expo",
+  "version": "0.1.0",
+  "description": "Example of react native created with expo using yarn workspaces",
+  "main": "index.js",
+  "repository": "git@github.com:christoferolaison/yarn-workspaces-expo.git",
+  "author": "Christofer Olaison <christofer.olaison@mentimeter.com>",
+  "license": "MIT",
+  "private": true
+}
