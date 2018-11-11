@@ -6,5 +6,6 @@
   "repository": "git@github.com:christoferolaison/yarn-workspaces-expo.git",
   "author": "Christofer Olaison <christofer.olaison@mentimeter.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "workspaces": ["packages/*"]
 }
