@@ -7,5 +7,5 @@
   "author": "Christofer Olaison <christofer.olaison@mentimeter.com>",
   "license": "MIT",
   "private": true,
-  "workspaces": ["packages/*"]
+  "workspaces": ["packages/*", "applications/*"]
 }
